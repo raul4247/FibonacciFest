@@ -22,6 +22,5 @@ Hello HacktoberFest!
 ## Como participar:
 
 * Faça um fork do projeto;
-* Crie um diretório com o nome da linguagem;
 * Crie um diretório com o nome da linguagem e desenvolva seu programa dentro do mesmo;
 * Faça um pull request para o repositório original;
